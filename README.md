@@ -2,7 +2,9 @@
 - 📍 Turin, Italy.
 - 🏃 [CodingGame](https://www.codingame.com/profile/3f9bea77733a9d89db7c63063ee9dd342680161)
 - 📖 Università Degli studi di Torino
-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josesantosl&theme=tokyonight)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josesantosl&theme=tokyonight)
 <!--
 **josesantosl/josesantosl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
