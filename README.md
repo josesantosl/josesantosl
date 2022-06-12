@@ -5,6 +5,8 @@
 
 ![José Santos GitHub stats](https://github-readme-stats.vercel.app/api?username=josesantosl&show_icons=true&theme=tokyonight&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josesantosl&layout=compact&theme=tokyonight&count_private=true)](https://github.com/josesantosl/github-readme-stats)
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=josesantosl&theme=tokyonight&show_icons=true" />
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josesantosl&theme=tokyonight&layout=compact" />
 <!--
 **josesantosl/josesantosl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
