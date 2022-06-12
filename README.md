@@ -3,8 +3,6 @@
 - 🏃 [CodingGame](https://www.codingame.com/profile/3f9bea77733a9d89db7c63063ee9dd342680161)
 - 📖 Università degli studi di Torino
 
-![José Santos GitHub stats](https://github-readme-stats.vercel.app/api?username=josesantosl&show_icons=true&theme=tokyonight&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josesantosl&layout=compact&theme=tokyonight&count_private=true)](https://github.com/josesantosl/github-readme-stats)
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=josesantosl&theme=tokyonight&show_icons=true" />
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josesantosl&theme=tokyonight&layout=compact" />
 <!--
