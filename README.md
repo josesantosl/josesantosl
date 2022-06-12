@@ -4,6 +4,7 @@
 - 📖 Università degli studi di Torino
 
 ![José Santos GitHub stats](https://github-readme-stats.vercel.app/api?username=josesantosl&show_icons=true&theme=tokyonight&count_private=true =x100)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josesantosl&layout=compact&theme=tokyonight&count_private=true)](https://github.com/anuraghazra/github-readme-stats =x100)
 <!--
 **josesantosl/josesantosl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
